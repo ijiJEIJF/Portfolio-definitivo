@@ -17,14 +17,13 @@ const Footer = () => {
 
       <div className="flex flex-col items-center">
         <h1 className="heading lg:max-w-[45vw]">
-          Contattami su <span className="text-purple">Discord</span>
+          Contattami <span className="text-purple">Ora!</span>
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
-    Conttattami ora!
         </p>
         <a href="">
           <MagicButton
-            title="Ds: f1r3ee"
+            title="support@f1r3ee.it"
             icon={<FaLocationArrow />}
             position="right"
           />
